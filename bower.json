@@ -1,0 +1,59 @@
+{
+  "name": "purescript-higher-order",
+  "homepage": "https://github.com/matthew-hilty/purescript-higher-order",
+  "authors": [
+    "Matthew Hilty <hilty.matthew+purescript@gmail.com"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthew-hilty/purescript-higher-order.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-arrays": "^5.2.0",
+    "purescript-bifunctors": "^4.0.0",
+    "purescript-catenable-lists": "^5.0.0",
+    "purescript-const": "^4.1.0",
+    "purescript-contravariant": "^4.0.0",
+    "purescript-control": "^4.1.0",
+    "purescript-distributive": "^4.0.0",
+    "purescript-effect": "^2.0.0",
+    "purescript-either": "^4.1.0",
+    "purescript-enums": "^4.0.0",
+    "purescript-errors": "^4.0.0",
+    "purescript-exceptions": "^4.0.0",
+    "purescript-exists": "^4.0.0",
+    "purescript-foldable-traversable": "^4.1.0",
+    "purescript-gen": "^2.1.0",
+    "purescript-generics-rep": "^6.1.0",
+    "purescript-identity": "^4.1.0",
+    "purescript-invariant": "^4.1.0",
+    "purescript-lazy": "^4.0.0",
+    "purescript-lists": "^5.4.0",
+    "purescript-maybe": "^4.0.0",
+    "purescript-newtype": "^3.0.0",
+    "purescript-nonempty": "^5.0.0",
+    "purescript-ordered-collections": "^1.6.0",
+    "purescript-orders": "^4.0.0",
+    "purescript-partial": "^2.0.0",
+    "purescript-prelude": "^4.1.0",
+    "purescript-profunctor": "^4.0.0",
+    "purescript-refs": "^4.1.0",
+    "purescript-st": "^4.0.0",
+    "purescript-tailrec": "^4.0.0",
+    "purescript-transformers": "^4.2.0",
+    "purescript-tuples": "^5.1.0",
+    "purescript-type-equality": "^3.0.0",
+    "purescript-unfoldable": "^4.0.0",
+    "purescript-unsafe-coerce": "^4.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}
