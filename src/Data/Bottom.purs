@@ -55,7 +55,7 @@ import Data.Set (empty) as Set
 -- |
 -- | For example, many container-like datatype operators support a total order
 -- | (therefore, also a partial order) when they act on total orders.
--- | `Array Int`, for instance`, is a total order because `Int` is a total
+-- | `Array Int`, for instance, is a total order because `Int` is a total
 -- | order. However, the `bottom` element of such container types is generally
 -- | independent of the type argument of the container's type constructor. The
 -- | `bottom` element of `Array a`, for instance, is `[]` whether `a` is `Int`,
