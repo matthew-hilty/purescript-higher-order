@@ -19,7 +19,7 @@
     "purescript-catenable-lists": "^5.0.0",
     "purescript-const": "^4.1.0",
     "purescript-effect": "^2.0.0",
-    "purescript-errors": "^4.0.0",
+    "purescript-errors": "^4.1.0",
     "purescript-generics-rep": "^6.1.0",
     "purescript-lists": "^5.4.0",
     "purescript-ordered-collections": "^1.6.0",
